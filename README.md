@@ -17,7 +17,7 @@ From then on, every time you use the server, make sure you update the repo and i
 
 ```bash
 cd lang101
-git pull
+git pull origin main
 bash ./create_lang_venv.sh
 ```
 
