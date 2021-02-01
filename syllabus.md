@@ -82,7 +82,7 @@ Some readings are marked with `math` indicating that students with knowledge of 
 
 #### Lesson 9 ####
 - Garg, N., Schiebinger, L., Jurafsky, D. & Zou, J. (2018). 'Word embeddings quantify 100 years of gender and ethnic stereotypes', _PNAS_, 16, E3635-E3644. DOI: [10.1073/pnas.1720347115](https://www.pnas.org/content/115/16/E3635)
-- Kozlowskia, A.C., Taddyb, M., Evansa, J.A. (2019). 'The Geometry of Culture: Analyzing the Meanings of Class Through Word Embeddings', _American Sociological Review_. DOI: [10.1177/0003122419877135](https://journals.sagepub.com/doi/full/10.1177/0003122419877135)
+- Kozlowskia, A.C., Taddyb, M., Evansa, J.A. (2019). 'The Geometry of Culture: Analyzing the Meanings of Class Through Word Embeddings', _American Sociological Review_, 84(5), 905-949. DOI: [10.1177/0003122419877135](https://journals.sagepub.com/doi/full/10.1177/0003122419877135)
 - Mikolov et al (2013). 'Efficient Estimation of Word Representations in Vector Space', [arXiv:1301.3781](https://arxiv.org/abs/1301.3781?source=post_page---------------------------) [cs.CL]```maths```
 
 
