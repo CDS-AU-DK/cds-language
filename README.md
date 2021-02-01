@@ -21,6 +21,18 @@ git pull
 bash ./create_lang_venv.sh
 ```
 
+## Repo structure
+
+This repository has the following directory structure:
+
+| Column | Description|
+|--------|:-----------|
+```data```| A folder to be used for sample datasets that we use in class.
+```notebooks``` | This is where you should save all exploratory and experimental notebooks.
+```src``` | For Python scripts developed in class and as part of assignments.
+```util``` | Utility functions that are written by me, and which we'll use in class.
+
+
 ## Class times
 
 This class takes place on Wednesday mornings from 8-12. Teaching will take place on Zoom, the link for which will be posted on Slack.
