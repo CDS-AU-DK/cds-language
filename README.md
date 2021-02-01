@@ -2,7 +2,7 @@
 
 This repository contains all of the code and data related to the Spring 2021 module _Language Analytics_ as part of the bachelor's tilvalg in [Cultural Data Science](https://bachelor.au.dk/en/supplementary-subject/culturaldatascience/) at Aarhus University.
 
-This repository is in active development, with new material being pushed to the repository on a weekly basis.
+This repository is in active development, with new material being pushed to the repository on a weekly basis. 
 
 ## Prerequisites
 
@@ -23,10 +23,10 @@ bash ./create_lang_venv.sh
 
 ## Course overview and readings
 
-A detailed breakdown of the course overview and the associated readings can be found in the [syllabus](syllabus.md).
+A detailed breakdown of the course structure and the associated readings can be found in the [syllabus](syllabus.md). Also, be sure to familiarise yourself with the [_studieordning_](https://eddiprod.au.dk/EDDI/webservices/DokOrdningService.cfc?method=visGodkendtOrdning&dokOrdningId=15952&sprog=en) for the course, especially in relation to examination and academic regulations.
 
 ## Contact details
 
-Instructor:     [Ross Deans Kristensen-McLachlan](https://pure.au.dk/portal/en/persons/ross-deans-kristensenmclachlan(29ad140e-0785-4e07-bdc1-8af12f15856c).html)
+The instructor for this course is [Ross Deans Kristensen-McLachlan](https://pure.au.dk/portal/en/persons/ross-deans-kristensenmclachlan(29ad140e-0785-4e07-bdc1-8af12f15856c).html). If you have any questions, Slack should be your first port-of-call
 
 
