@@ -6,7 +6,7 @@ This repository is in active development, with new material being pushed on a we
 
 ## Technicalities
 
-For the sake of convenience, I recommend using our own JupyterHub server for development purposes. The first time you use the server, you'll need to create your own version of the repo and install relevant dependencies in a virtual environment:
+For the sake of convenience, I recommend using our own [JupyterHub server](https://worker02.chcaa.au.dk/jupyter/hub/login) for development purposes. The first time you use the server, you'll need to create your own version of the repo and install relevant dependencies in a virtual environment:
 
 ```bash
 git clone https://github.com/CDS-AU-DK/cds-language.git
