@@ -42,7 +42,7 @@ Each course element (1-13) is a four hour session, consisting of a 1hr lecture, 
 6. Network analysis (10/3)
 7. Text classification using ```scikit-learn``` (17/3)
 8. Topic modeling (24/3)
-   EASTER
+- EASTER
 9. Word embeddings (7/4)
 10. OCR: From image to text with ```tesseract``` (14/4)
 11. Text classification again: deep learning and neural networks (21/4)
