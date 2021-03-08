@@ -34,19 +34,20 @@ Assignment will be graded on a 0 to 3 point scale based on a simple effort-focus
 ## Schedule ##
 Each course element (1-13) is a four hour session, consisting of a 1hr lecture, 1hr coding task explanation, and 2hrs code-along session.
 
-1. Introductions, Python, and basic data types
-2. String Processing with Python
-3. Basic NLP with ```spaCy```
-4. Sentiment analysis
-5. Named entities
-6. Network analysis
-7. Text classification using ```scikit-learn```
-8. Topic modeling 
-9. Word embeddings
-10. OCR: From image to text with ```tesseract```
-11. Text classification again: deep learning and neural networks
-12. More deep learning for text analysis - introducing ```BERT```
-13. Creating datasets
+1. Introductions, Python, and basic data types (3/2)
+2. String Processing with Python (10/2)
+3. Basic NLP with ```spaCy``` (17/2)
+4. Sentiment analysis (24/2)
+5. Named entities (3/3)
+6. Network analysis (10/3)
+7. Text classification using ```scikit-learn``` (17/3)
+8. Topic modeling (24/3)
+   EASTER
+9. Word embeddings (7/4)
+10. OCR: From image to text with ```tesseract``` (14/4)
+11. Text classification again: deep learning and neural networks (21/4)
+12. More deep learning for text analysis - introducing ```BERT``` (28/4)
+13. Creating datasets (5/5)
 
 ## Reading ##
 Some readings are marked with `math` indicating that students with knowledge of basic calculus, probability theory, and linear algebra can benefit from this paper. Therefore, articles marked with ```math```are _supplementary_ and not compulsory. Access to some articles may require you to be on the university VPN, or can be accessed through the library website. 
