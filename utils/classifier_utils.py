@@ -6,7 +6,7 @@ import seaborn as sns
 from sklearn.linear_model import LogisticRegression
 from sklearn.model_selection import cross_validate, ShuffleSplit, learning_curve
 
-# Function for balancing datasets - don't worry too much about this.
+# Function for balancing datasets using pandas
 def balance(dataframe, n=500):
     """
     Create a balanced sample from imbalanced datasets.
@@ -23,7 +23,7 @@ def balance(dataframe, n=500):
     
     return out
 
-# Show the most informative featurs - again, don't worry too much about the details
+# Show the most informative features
 def show_features(vectorizer, training_labels, classifier, n=20):
     """
     Return the most informative features from a classifier, i.e. the 'strongest' predictors.
@@ -51,7 +51,7 @@ def show_features(vectorizer, training_labels, classifier, n=20):
 
     return None
 
-# Create an ROC plot for 
+# Create an ROC plot to evaluate classifier
 def plot_ROC(fpr, tpr, AUC):
     """
     Create an 'ROC' plot, used to evaluate the accuracy of a classifier.
@@ -77,6 +77,7 @@ def plot_ROC(fpr, tpr, AUC):
 
     return None
 
+# Create heatmap visualisation
 def plot_cm(y_test, y_pred, normalized:bool):
     """
     Plot confusion matrix
@@ -94,7 +95,7 @@ def plot_cm(y_test, y_pred, normalized:bool):
 
         return None
     
-
+# Plot learning-validation curve
 def plot_learning_curve(estimator, title, X, y, axes=None, ylim=None, cv=None,
                         n_jobs=None, train_sizes=np.linspace(.1, 1.0, 5)):
     """
