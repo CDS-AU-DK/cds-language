@@ -24,30 +24,31 @@ In the evaluation of the student’s performance, emphasis is placed on the exte
     * apply acquired methods and procedures to topics from the student’s core field
 
 ## Course Assessment ##
-This course is graded. In order to proceed to the final exam (take-home project) at the first instance, you need to participate by submitting and peer-reviewing at least 5 out of 8 assignments to Blackboard. 
+The exam consists of a portfolio containing a number of assignments. The portfolio will consist of 5-7 assignments.
+The number of assignments as well as their form and length will be announced at the start of the semester. The portfolio may include products. Depending on their length, and subject to the teacher’s approval, these products can replace some of the standard pages in the portfolio.
 
 ### Participation ###
-Answers to weekly questions or tasks will be required before the next session. You are welcome to either upload your code or link to a Github repo. You will be expected to peer review 2 submissions from your classmates.
+Students will be expected to complete the in-class assignments in order to progress to the examination. These assignments are designed first and foremost to develop skills rather than “prove” you have learned concepts. 
 
-Assignment will be graded on a 0 to 3 point scale based on a simple effort-focused rubric found on the course website. These are designed first and foremost to develop skills rather than “prove” you have learned concepts. I encourage you to communicate and work together, so long as you write and explain your code yourself and do not copy work wholesale. You can learn a lot from replicating others’ code but you will learn nothing if you copy it without knowing how it works.
+I encourage you to communicate and work together, so long as you write and explain your code yourself and do not copy work wholesale. You can learn a lot from replicating others’ code but you will learn nothing if you copy it without knowing how it works.
 
 ## Schedule ##
-Each course element (1-13) is a four hour session, consisting of a 1hr lecture, 1hr coding task explanation, and 2hrs code-along session.
+Each course element (1-13) is a four hour session, consisting of a two-hour lecture and two-hour code-along session.
 
-1. Introductions, Python, and basic data types (3/2)
-2. String Processing with Python (10/2)
-3. Basic NLP with ```spaCy``` (17/2)
-4. Sentiment analysis (24/2)
-5. Named entities (3/3)
-6. Network analysis (10/3)
-7. Text classification using ```scikit-learn``` (17/3)
-8. Topic modeling (24/3)
+1. Introductions, Python, and basic data types
+2. String Processing with Python
+3. Basic NLP with ```spaCy```
+4. Sentiment analysis
+5. Named entities
+6. Network analysis 1
+7. Network analysis 2
+8. Text classification using ```scikit-learn``` 
 - EASTER
-9. Word embeddings (7/4)
-10. OCR: From image to text with ```tesseract``` (14/4)
-11. Text classification again: deep learning and neural networks (21/4)
-12. More deep learning for text analysis - introducing ```BERT``` (28/4)
-13. Creating datasets (5/5)
+9. Word embeddings 
+10.  OCR: From image to text with ```tesseract``` 
+11.  Text classification again: deep learning and neural networks 
+12.  More deep learning for text analysis - introducing ```BERT``` 
+13.  Creating datasets 
 
 ## Reading ##
 Some readings are marked with `math` indicating that students with knowledge of basic calculus, probability theory, and linear algebra can benefit from this paper. Therefore, articles marked with ```math```are _supplementary_ and not compulsory. Access to some articles may require you to be on the university VPN, or can be accessed through the library website. 
@@ -74,37 +75,37 @@ Some readings are marked with `math` indicating that students with knowledge of 
 - Wilkens, M. & Evans, E. (2018). 'Nation, Ethnicity, and the Geography of British Fiction, 1880-1940', _Journal of Cultural Analytics_. DOI: [10.22148/16.024](https://culturalanalytics.org/article/11037-nation-ethnicity-and-the-geography-of-british-fiction-1880-1940)
 
 
-#### Lesson 6 ####
+#### Lesson 6 + 7 ####
 - Ahnert, R. & Ahnert, S. (2015). 'Protestant Letter Writing Networks in the Reign of Mary I: A Quantitative Approach', _English Literary History_, 82(1), 1-33. DOI: [10.1353/elh.2015.0000](https://qmro.qmul.ac.uk/xmlui/bitstream/handle/123456789/10170/ProtestantLetterNetworks82.1.ahnert.pdf?sequence=6&isAllowed=y)
 - Cordell, R. (2015). 'Reprinting, Circulation, and the Network Author in Antebellum Newspapers', _American Literary History_, 27(3), 417-445. DOI: [10.1093/alh/ajv028](https://academic.oup.com/alh/article-abstract/27/3/417/85989)
 
 
-#### Lesson 7 ####
+#### Lesson 8 ####
 - So, R.J. & Roland, E. (2020). 'Race and Distant Reading', _Publication of the Modern Language Association (PMLA), special issue on "Varieties of Digital Humanities_, 135(1), 59-73. [Download](https://186a12ba-ba8b-43dc-a7e9-e52f0db4a597.filesusr.com/ugd/175024_f4e33b1f05924be58fcfbc8e0542d475.pdf)
 
 
-#### Lesson 8 ####
+#### Lesson 9 ####
 - Stine, Z., Deitrick, J., & Agarwal, N. (2020). 'Comparative Religion, Topic Models, and Conceptualization: Towards the Characterization of Structural Relationship between Online Religious Discourses', _CHR2020: Workshop on Computational Humanities Research_. [Download](http://ceur-ws.org/Vol-2723/long47.pdf)
 - Blei, D.M, Ng, A.Y., Jordan, M.I. (2003). 'Latent Direchlet Allocation', _Journal of Machine Learning Research_, 3, 993-1022. DOI: [10.5555/944919.944937](https://dl.acm.org/doi/10.5555/944919.944937) ```maths```
 - Viola, L. & Verheul, J. (2019). 'Mining ethnicity: Discourse-driven topic modelling of immigrant discourses in the USA, 1898–1920', _Digital Scholarship in the Humanities_, 35(4), 921-943. DOI: [10.1093/llc/fqz068](https://academic.oup.com/dsh/article/35/4/921/5601610)
 
 
-#### Lesson 9 ####
+#### Lesson 10 ####
 - Garg, N., Schiebinger, L., Jurafsky, D. & Zou, J. (2018). 'Word embeddings quantify 100 years of gender and ethnic stereotypes', _PNAS_, 16, E3635-E3644. DOI: [10.1073/pnas.1720347115](https://www.pnas.org/content/115/16/E3635)
 - Kozlowskia, A.C., Taddyb, M., Evansa, J.A. (2019). 'The Geometry of Culture: Analyzing the Meanings of Class Through Word Embeddings', _American Sociological Review_, 84(5), 905-949. DOI: [10.1177/0003122419877135](https://journals.sagepub.com/doi/full/10.1177/0003122419877135)
 - Mikolov et al (2013). 'Efficient Estimation of Word Representations in Vector Space', [arXiv:1301.3781](https://arxiv.org/abs/1301.3781?source=post_page---------------------------) [cs.CL]```maths```
 
 
-#### Lesson 10 ####
+#### Lesson 11 ####
 - Hill, M.J., & Hengchen, S. (2019). 'Quantifying the impact of dirty OCR on historical text analysis: Eighteenth Century Collections Online as a case study',_Digital Scholarship in the Humanities_, 34(4), 825-843. DOI: [10.1093/llc/fqz024](https://academic.oup.com/dsh/article-abstract/34/4/825/5476122)
 - Ströbel et al (2019). 'How Much Data Do You Need? About the Creation of a Ground Truth for Black Letter and the Effectiveness of Neural OCR', _Proceedings of the 12th Conference on Language Resources and Evaluation (LREC 2020)_, 3551–3559. [Download](https://www.aclweb.org/anthology/2020.lrec-1.436.pdf)
 
 
-#### Lesson 11 ####
+#### Lesson 12 ####
 - Blanke, T., Bryant, M., & Hedges, M. (2020). 'Understanding memories of the Holocaust—A new approach to neural networks in the digital humanities', _Digital Scholarship in the Humanities_, 35(1), 17-33. DOI: [10.1093/llc/fqy082](https://www.google.com/search?client=firefox-b-d&q=10.1093%2Fllc%2Ffqy082)
 
 
-#### Lesson 12 ####
+#### Lesson 13 ####
 - Devlin et al. (2017). 'BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding', [arXiv:1810.04805](https://arxiv.org/abs/1810.04805) [cs.CL] ```maths```
 - Underwoord, T. (2019). 'Do humanists need BERT?", [blog post.](https://tedunderwood.com/2019/07/15/do-humanists-need-bert/)
 - Vaswani et al (2017). 'Attention is all you need', [arXiv:1706.03762](https://arxiv.org/abs/1706.03762) [cs.CL]```maths```
@@ -119,7 +120,7 @@ _No assigned readings_
 - VanderPlas, J. (2016). _Python Data Science Handbook_. [Access](https://jakevdp.github.io/PythonDataScienceHandbook/)
 
 ## Slack Channel ##
-We will use the "b-language-analytics" channel for class-related communication. Please ask (and answer) questions in this Slack channel. If you are not in the CD Slack, sign up here [bit.ly/SlackForCDS](bit.ly/SlackForCDS). There is no such thing as a stupid or trivial question. If a colleague asks a question you know an answer to, try and answer. Slack is not only for instructor-student interaction, it is for all students to share knowledge and resources, and to get answers as fast as possible. Slack is best-suited for short technical questions and individual threads or channels for extended conversations on a given topic. 
+We will use the "language-analytics" channel for class-related communication. Please ask (and answer) questions in this Slack channel. If you are not in the CD Slack, sign up here [bit.ly/SlackForCDS](bit.ly/SlackForCDS). There is no such thing as a stupid or trivial question. If a colleague asks a question you know an answer to, try and answer. Slack is not only for instructor-student interaction, it is for all students to share knowledge and resources, and to get answers as fast as possible. Slack is best-suited for short technical questions and individual threads or channels for extended conversations on a given topic. 
 
 ### Rules of Slack: ###
 1. use your github username or post.au.dk address to register and use the channel. 

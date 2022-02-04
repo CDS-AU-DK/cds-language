@@ -1,26 +1,14 @@
 # Language Analytics - Spring 2021
 
-This repository contains all of the code and data related to the Spring 2021 module _Language Analytics_ as part of the bachelor's tilvalg in [Cultural Data Science](https://bachelor.au.dk/en/supplementary-subject/culturaldatascience/) at Aarhus University.
+This repository contains all of the code and data related to the Spring 2022 module _Language Analytics_ as part of the bachelor's tilvalg in [Cultural Data Science](https://bachelor.au.dk/en/supplementary-subject/culturaldatascience/) at Aarhus University.
 
 This repository is in active development, with new material being pushed on a weekly basis. 
 
 ## Technicalities
 
-For the sake of convenience, I recommend using our own [JupyterHub server](https://worker02.chcaa.au.dk/jupyter/hub/login) for development purposes. The first time you use the server, you'll need to create your own version of the repo and install relevant dependencies in a virtual environment:
+The coding part of this course will be run entirely on [UCloud](https://cloud.sdu.dk/). This is to ensure that everyone has access to the same computing resources and to avoid potential conflicts with different operating systems, different versions of Python, and so on.
 
-```bash
-git clone https://github.com/CDS-AU-DK/cds-language.git
-cd cds-language
-bash ./create_lang_venv.sh
-```
-
-From then on, every time you use the server, make sure you update the repo and install any new dependencies:
-
-```bash
-cd lang101
-git pull origin main
-bash ./create_lang_venv.sh
-```
+Students are welcome to develop code locally on their machine instead. However, please not that *no support* will be given for potential problems or errors you encounter!
 
 ## Repo structure
 
