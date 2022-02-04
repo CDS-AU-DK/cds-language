@@ -24,7 +24,7 @@ This repository has the following directory structure:
 
 ## Class times
 
-This class takes place on Wednesday mornings from 8-12. Teaching will take place on Zoom, the link for which will be posted on Slack.
+This class takes place on Mondays from 12-16. Teaching will take place on Zoom, the link for which will be posted on Slack.
 
 ## Course overview and readings
 
