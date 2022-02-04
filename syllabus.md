@@ -43,12 +43,12 @@ Each course element (1-13) is a four hour session, consisting of a two-hour lect
 6. Network analysis 1
 7. Network analysis 2
 8. Text classification using ```scikit-learn``` 
-- EASTER
 9. Word embeddings 
-10.  OCR: From image to text with ```tesseract``` 
-11.  Text classification again: deep learning and neural networks 
-12.  More deep learning for text analysis - introducing ```BERT``` 
-13.  Creating datasets 
+- EASTER
+1.   OCR: From image to text with ```tesseract``` 
+2.   Text classification again: deep learning and neural networks 
+3.   More deep learning for text analysis - introducing ```BERT``` 
+4.   Creating datasets 
 
 ## Reading ##
 Some readings are marked with `math` indicating that students with knowledge of basic calculus, probability theory, and linear algebra can benefit from this paper. Therefore, articles marked with ```math```are _supplementary_ and not compulsory. Access to some articles may require you to be on the university VPN, or can be accessed through the library website. 
