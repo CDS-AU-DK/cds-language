@@ -16,7 +16,7 @@ For this assignment, you should create a private Github repository and add me as
 - You are welcome to work on this and submit as a group, even though it says Individual Assignment.
 - Try to provide a README file which outlines the contents of the repository.
 - For your dataset, you should use the novels in the shared data folder, under _100 English Novels_. **You should not include the data in your Github repo - an empty folder called data is fine**
-- Calculate mutual information using **either** the score we looked at in class **or** the formula outlined on the website for the [British National Corpus]("https://www.english-corpora.org/mutualInformation.asp"). The latter approach here is a little easier, I think, and totally acceptable to use.
+- Calculate mutual information using **either** the score we looked at in class **or** the formula outlined on the website for the [British National Corpus](https://www.english-corpora.org/mutualInformation.asp). The latter approach here is a little easier, I think, and totally acceptable to use.
 - Be sure to pay attention to tokenization, capital letters, punctuation, etc. All of these could affect your final scores!
 
 ## Bonus tasks
