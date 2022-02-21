@@ -13,7 +13,7 @@ For this assignment, you will write a small Python program to perform collocatio
 For this assignment, you should create a private Github repository and add me as a collaborator. When submitting via Brightspace, simply send the link to the repository; I will provide feedback and comments via Github's built in functionality.
 
 ## Tips and pointers
--You are welcome to work on this and submit as a group, even though it says Individual Assignment.
+- You are welcome to work on this and submit as a group, even though it says Individual Assignment.
 - Try to provide a README file which outlines the contents of the repository.
 - For your dataset, you should use the novels in the shared data folder, under _100 English Novels_. **You should not include the data in your Github repo - an empty folder called data is fine**
 - Calculate mutual information using **either** the score we looked at in class **or** the formula outlined on the website for the [British National Corpus]("https://www.english-corpora.org/mutualInformation.asp"). The latter approach here is a little easier, I think, and totally acceptable to use.
