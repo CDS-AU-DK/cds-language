@@ -12,7 +12,9 @@ For this assignment, you will write a small Python program to perform NER and se
      - Plot the results over time, with one visualisation showing sentiment of opening sentences over time and one of closing sentences over time.
      - Find the 20 most common geopolitical entities mentioned across the whole corpus - plot the result as a bar chart.
 
-2. Using the corpus of Fake vs Real news
+**OR**
+
+2. Using the corpus of Fake vs Real news, write some code which does the following
 
    - Split the data into two datasets - one of Fake news and one of Real news
    - For every headline
@@ -28,6 +30,7 @@ For this assignment, you should create a private Github repository and add me as
 - You are welcome to work on this and submit as a group, even though it says Individual Assignment.
 - For the sentiment analysis, you are welcome to use either the spaCyTextBlob approach *or* the VADER approach.
 - Try to provide a detailed README file which outlines the contents of the repository.
+- Save results in a clearly-named folder like *output* or *results*
 - For your dataset, you should use either the novels in the shared data folder, under *100 English Novels* **or** the *Fake/Real News* dataset. **You should not include the data in your Github repo - an empty folder called data is fine**
 
 ## Bonus tasks
