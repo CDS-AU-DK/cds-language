@@ -1,4 +1,4 @@
-# Assignment 1 - Sentiment and NER
+# Assignment 2 - Sentiment and NER
 
 We saw this week that an common application of NLP in cultural data is finding what is known as *named entities*. In previous sessions, we also saw some simple ways of calculating a *sentiment score* for a stretch of natural language. These tasks allow us to extract some potentially interesting information from our data - what exactly is being spoken about in a text and what kind of sentiment does the text show?
 
