@@ -7,7 +7,7 @@ For this assignment, you will write a small Python program to perform NER and se
 1. Using the corpus of English novels, write some code which does the following tasks
 
    - For every novel in the corpus
-     - Get the sentiment of the first sentence.
+     - ~~Get the sentiment of the first sentence.~~
      - Get the sentiment of the final sentence.
      - Plot the results over time, with one visualisation showing sentiment of opening sentences over time and one of closing sentences over time.
      - Find the 20 most common geopolitical entities mentioned across the whole corpus - plot the result as a bar chart.
@@ -34,6 +34,8 @@ For this assignment, you should create a private Github repository and add me as
 - For your dataset, you should use either the novels in the shared data folder, under *100 English Novels* **or** the *Fake/Real News* dataset. **You should not include the data in your Github repo - an empty folder called data is fine**
 
 ## Bonus tasks
+
+- For the novels, you can try to do the first sentence, too - but this is tricky!
 - You're welcome to do both tasks, if you want! But this is not required at all.
 - Repeat experiments using both sentiment analysis techniques, in order to compare results.
 
