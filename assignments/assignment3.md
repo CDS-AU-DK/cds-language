@@ -19,7 +19,7 @@ Your script should do the following:
   - Save a separate visualisation and CSV for each file
 
 ## Tips and pointers (READ THIS BIT)
-
+- Be careful to check the delimiter in the test data! (tab delimited)
 - You are welcome to work on this and submit as a group, even though it says Individual Assignment.
 - Try to provide a detailed README file which outlines the contents of the repository.
 - Create a folder called *in* or *input* or *data*. This should be the folder where data goes, if you were to use the tool again in future.
