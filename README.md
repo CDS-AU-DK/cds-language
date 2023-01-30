@@ -1,8 +1,8 @@
 # Language Analytics - Spring 2022
 
-This repository contains all of the code and data related to the Spring 2022 module _Language Analytics_ as part of the bachelor's tilvalg in [Cultural Data Science](https://bachelor.au.dk/en/supplementary-subject/culturaldatascience/) at Aarhus University.
+This repository contains all of the code and data related to the Spring 2023 module _Language Analytics_ as part of the bachelor's elective in [Cultural Data Science](https://bachelor.au.dk/en/supplementary-subject/culturaldatascience/) at Aarhus University.
 
-This repository is in active development, with new material being pushed on a weekly basis. 
+This repository is in active development, with new material being pushed on a weekly basis.
 
 ## Technicalities
 
@@ -25,7 +25,7 @@ This repository has the following directory structure:
 
 ## Class times
 
-This class takes place on Mondays from 12-16. Teaching will take place in person, and you can find the room number via the AU Timetable.
+This class takes place on Wednesdays from 8-12. Teaching will take place in person, and you can find the room number via the AU Timetable.
 
 ## Course overview and readings
 
