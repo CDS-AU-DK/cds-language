@@ -19,6 +19,7 @@ This repository has the following directory structure:
 ```data```| A folder to be used for sample datasets that we use in class.
 ```notebooks``` | This is where you should save all exploratory and experimental notebooks.
 ```src``` | For Python scripts developed in class and as part of assignments.
+```syllabus```| Contains a full course syllabus and reading list
 ```utils``` | Utility functions that are written by me, and which we'll use in class.
 
 
