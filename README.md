@@ -16,11 +16,11 @@ This repository has the following directory structure:
 
 | Column | Description|
 |--------|:-----------|
-```data```| A folder to be used for sample datasets that we use in class.
-```notebooks``` | This is where you should save all exploratory and experimental notebooks.
-```src``` | For Python scripts developed in class and as part of assignments.
-```syllabus```| Contains a full course syllabus and reading list
-```utils``` | Utility functions that are written by me, and which we'll use in class.
+| ```data``` | A folder to be used for sample datasets that we use in class |
+| ```notebooks``` | This is where you should save all exploratory and experimental notebooks |
+| ```src```  | For Python scripts developed in class and as part of assignments |
+| ```syllabus```| Contains a full course syllabus and reading list |
+| ```utils``` | Utility functions that are written by me, and which we'll use in class. |
 
 
 ## Class times
@@ -29,11 +29,10 @@ This class takes place on Wednesdays from 8-12. Teaching will take place in pers
 
 ## Course overview and readings
 
-A detailed breakdown of the course structure and the associated readings can be found in the [syllabus](syllabus/readme.md). Also, be sure to familiarise yourself with the [_studieordning_](https://eddiprod.au.dk/EDDI/webservices/DokOrdningService.cfc?method=visGodkendtOrdning&dokOrdningId=15952&sprog=en) for the course, especially in relation to examination and academic regulations.
+A detailed breakdown of the course structure and the associated readings can be found in the [syllabus](syllabus/readme.md). Also, be sure to familiarise yourself with the [studieordning](https://eddiprod.au.dk/EDDI/webservices/DokOrdningService.cfc?method=visGodkendtOrdning&dokOrdningId=15952&sprog=en) for the course, especially in relation to examination and academic regulations.
 
 ## Contact details
 
 The instructor is me! That is to say, [Ross](https://pure.au.dk/portal/en/persons/ross-deans-kristensenmclachlan(29ad140e-0785-4e07-bdc1-8af12f15856c).html).
 
 All communication to you will be sent _both_ on Slack _and_ via Blackboard. If you need to get in touch with me, Slack should be your first port-of-call! 
-
