@@ -64,6 +64,7 @@ Access to some articles may require you to be on the university VPN, or can be a
 * Bender, E.M., Gebru, T., McMillan-Major, A., Schmitchell, S. (2021). "On the Dangers of Stochastic Parrots: Can Language Models Be Too Big? 🦜". In Proceedings of FAccT 2021, pp.610-623. DOI: [10.1145/3442188.3445922](https://doi.org/10.1145/3442188.3445922)
 * Blanke, T., Bryant, M., & Hedges, M. (2020). 'Understanding memories of the Holocaust—A new approach to neural networks in the digital humanities', _Digital Scholarship in the Humanities_, 35(1), 17-33. DOI: [10.1093/llc/fqy082](https://www.google.com/search?client=firefox-b-d&q=10.1093%2Fllc%2Ffqy082)
 * Brown, T.B., et al. (2020). "Language Models are Few-shot Learners", [arXiv:2005.14165](https://arxiv.org/abs/2005.14165)
+* Center for Research on Foundation Models (CRFM) (2019). "On the Opportunities and Risks of Foundation Models", [arXiv:2108.07258](https://arxiv.org/abs/2108.07258) [cs.LG]
 * Garg, N., Schiebinger, L., Jurafsky, D. & Zou, J. (2018). 'Word embeddings quantify 100 years of gender and ethnic stereotypes', _PNAS_, 16, E3635-E3644. DOI: [10.1073/pnas.1720347115](https://www.pnas.org/content/115/16/E3635)
 * Kim, E. & Klinger, R. (2019). 'A Survey on Sentiment and Emotion Analysis for Computational Literary Studies'. In _Zeitschrift für digitale Geisteswissenschaften_. DOI: [10.17175/2019_008](http://www.zfdg.de/2019_008)
 * Jurafsky, D. & Martin, J.H. (2021). _Speech and Language Processing_, 3rd edition online pre-print. [Access](https://web.stanford.edu/~jurafsky/slp3/)
