@@ -19,6 +19,6 @@ For some of you, this material might be pretty old-school already, and that's fi
         - Working on our [first assignment](https://classroom.github.com/a/P4iTg_cV)
 - Checking Python knowledge
     - A number of exercises to test your knowledge
-        - Link to exercises [here](https://github.com/CHCAA-EDUX/Programming-for-the-Humanities-E22/tree/main/exercisess://github.com/CHCAA-EDUX/Programming-for-the-Humanities-E22/tree/main/exercises)
+        - Link to exercises [here](https://github.com/CHCAA-EDUX/Programming-for-the-Humanities-E22/tree/main/exercises)
 
 
