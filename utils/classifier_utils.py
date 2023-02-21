@@ -37,7 +37,7 @@ def show_features(vectorizer, training_labels, classifier, n=20):
         
     """
     # Get feature names and coefficients
-    feature_names = vectorizer.get_feature_names()
+    feature_names = vectorizer.get_feature_name_out()
     coefs_with_fns = sorted(zip(classifier.coef_[0], feature_names))
     # Get ordered labels
     labels = sorted(set(training_labels))
