@@ -8,7 +8,7 @@ In the lecture, we saw how *fully-connected, feed-forward neural networks* build
 
 We're also going to start to look at how we can move away from working in notebooks and instead think about how we can do Python *scripting*. This will be something that we're building on throughout the rest of the remaining semester.
 
-There is a notebook for you to work through in groups, and Assignment 2 is available for you to work start on in class, if we have time.
+There is a notebook for you to work through in groups, and Assignment 2 is available for you to work start on in class, if we have time. [You can access the repo for Assignment 2 here](https://classroom.github.com/a/qGathgQP).
 
 ## Tasks
 
