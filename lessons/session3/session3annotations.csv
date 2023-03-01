@@ -1,0 +1,17 @@
+,Token,POS
+0,My,PRON
+1,name,NOUN
+2,is,AUX
+3,Nikita,PROPN
+4,and,CCONJ
+5,I,PRON
+6,have,VERB
+7,friends,NOUN
+8,in,ADP
+9,Denmark,PROPN
+10,",",PUNCT
+11,Germany,PROPN
+12,",",PUNCT
+13,Poland,PROPN
+14,and,CCONJ
+15,Dubai,PROPN
