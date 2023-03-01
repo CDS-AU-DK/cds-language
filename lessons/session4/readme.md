@@ -1,4 +1,4 @@
-# Session 3 - Text classification 1
+# Session 4 - Text classification 1
 
 ## Overview
 
