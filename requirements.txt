@@ -1,3 +1,4 @@
 matplotlib
 numpy
 tensorflow-cpu
+tensorflow-datasets
