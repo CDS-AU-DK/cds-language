@@ -1,4 +1,4 @@
-# Session 7 - Language modelling
+# Session 7 - Language modelling 1 (RNNs)
 
 ## Overview
 

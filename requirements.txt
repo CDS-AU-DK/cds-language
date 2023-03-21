@@ -1,4 +1,4 @@
 matplotlib
 numpy
+pandas
 tensorflow-cpu
-tensorflow-datasets
