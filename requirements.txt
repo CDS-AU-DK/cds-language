@@ -1,3 +1,2 @@
-bertopic
-scikit-learn
-pandas
+transformers
+tensorflow-cpu
