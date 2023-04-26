@@ -1,4 +1,4 @@
-# Session 10 - Generative language models
+# Session 12 - Generative language models
 
 ## Overview
 
