@@ -15,10 +15,7 @@ For some of you, this material might be pretty old-school already, and that's fi
 - Introducing Github
     - Basic Github steps
     - Making it play nicely with UCloud
-    - Introducing [Github Classrooms](https://classroom.github.com/)
-        - Working on our [first assignment](https://classroom.github.com/a/P4iTg_cV)
-- Checking Python knowledge
-    - A number of exercises to test your knowledge
-        - Link to exercises [here](https://github.com/CHCAA-EDUX/Programming-for-the-Humanities-E22/tree/main/exercises)
+- Introducing Python
+    - String, lists
 
 

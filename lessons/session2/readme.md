@@ -12,4 +12,6 @@ In today's workshop, we're going to see how we can use Python to build simple to
 - A quick reminder on how strings and lists work
 - Counting word frequencies
 - Displaying keywords-in-context
-- Group exercises to test your skills
+- Checking Python knowledge
+    - A number of exercises to test your knowledge
+        - Link to exercises [here](https://github.com/CHCAA-EDUX/Programming-for-the-Humanities-E22/tree/main/exercises)

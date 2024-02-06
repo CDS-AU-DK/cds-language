@@ -51,20 +51,20 @@ Each course session (1-13) is four hours long, consisting of a two-hour lecture 
 |  10   |    6    | Word embeddings              | Semantic analysis with word2vec         | *Garg et al (2018)*                                     |
 |  11   |    7	  | Language modelling 1         | Training a custom NER model             | *Blanke et al (2020)*                                   |
 |  12   |    8	  | Language modelling 2         | Advanced Python scripting               | *Alammar (2018a)*                                       |
-|  13   |    9    | BERT                         | Working with BERT                       | *Alammar (2018b); Underwood 2019*                       |
-|  14   |         | *NO TEACHING*                | *NO TEACHING*                           | *CRFM (2019) (sections)*                                |
+|  13   |         | *NO TEACHING*                | *NO TEACHING*                           | *CRFM (2019) (sections)*                                |
+|  14   |    9    | BERT                         | Working with BERT                       | *Alammar (2018b); Underwood 2019*                       |
 |  15   |   10    | More BERT                    | Exploring BERT                          | *Rogers et al. (2020)_*                                 |
-|  16   |   11    | Project presentations        | Project presentations                   | *NO ASSIGNED READINGS*                                  |
-|  17   |   12    | Generative models            | Prompt engineering                      | *Brown et al. (2020) (sections)*                        |
-|  18   |   13    | Social impact                | Project development                     | *Bender et al. (2021)*                                  |
+|  16   |   11    | Generative models            | Prompt engineering                      | *Contreras-Kallens et al. (2023); Dou et al. (2022)*                                  |
+|  17   |   12    | Social impact                | Measuring impact                        | *Bender et al. (2021)*                        |
+|  18   |   13    | Portfolio development        | Portfolio development                   | *NO ASSIGNED READINGS*                                  |
 
 ## Reading
 Access to some articles may require you to be on the university VPN, or can be accessed through the library website. 
 
 * Bender, E.M., Gebru, T., McMillan-Major, A., Schmitchell, S. (2021). "On the Dangers of Stochastic Parrots: Can Language Models Be Too Big? 🦜". In Proceedings of FAccT 2021, pp.610-623. DOI: [10.1145/3442188.3445922](https://doi.org/10.1145/3442188.3445922)
 * Blanke, T., Bryant, M., & Hedges, M. (2020). 'Understanding memories of the Holocaust—A new approach to neural networks in the digital humanities', _Digital Scholarship in the Humanities_, 35(1), 17-33. DOI: [10.1093/llc/fqy082](https://www.google.com/search?client=firefox-b-d&q=10.1093%2Fllc%2Ffqy082)
-* Brown, T.B., et al. (2020). "Language Models are Few-shot Learners", [arXiv:2005.14165](https://arxiv.org/abs/2005.14165)
-* Center for Research on Foundation Models (CRFM) (2019). "On the Opportunities and Risks of Foundation Models", [arXiv:2108.07258](https://arxiv.org/abs/2108.07258) [cs.LG]
+* Contreras Kallens, P. A., Kristensen-McLachlan, R.D., & Christiansen, M. H. (2023). “Large Language Models demonstrate the potential of statistical learning in language”, Cognitive Science, 47(3), e13256. DOI: 10.1111/cogs.13256
+* Dou, Y., Forbes, M., Koncel-Kedziorski, R., Smith, N.A., & Choi, Y. (2022). 'Is GPT-3 Text Indistinguishable from Human Text? Scarecrow: A Framework for Scrutinizing Machine Text'. In Proceedings of the 60th Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers), pages 7250–7274, Dublin, Ireland. Association for Computational Linguistics. DOI: 10.18653/v1/2022.acl-long.501
 * Garg, N., Schiebinger, L., Jurafsky, D. & Zou, J. (2018). 'Word embeddings quantify 100 years of gender and ethnic stereotypes', _PNAS_, 16, E3635-E3644. DOI: [10.1073/pnas.1720347115](https://www.pnas.org/content/115/16/E3635)
 * Kim, E. & Klinger, R. (2019). 'A Survey on Sentiment and Emotion Analysis for Computational Literary Studies'. In _Zeitschrift für digitale Geisteswissenschaften_. DOI: [10.17175/2019_008](http://www.zfdg.de/2019_008)
 * Jurafsky, D. & Martin, J.H. (2021). _Speech and Language Processing_, 3rd edition online pre-print. [Access](https://web.stanford.edu/~jurafsky/slp3/)
@@ -85,11 +85,3 @@ The following resources are *not* compulsory assigned readings. Instead, these a
   * (2019). _Linear Algebra and Learning from Data_. Wellesley, MA: Wellesley-Cambridge Press.
   * (2020). _Linear Algebra for Everyone_. Wellesley, MA: Wellesley-Cambridge Press.
 * VanderPlas, J. (2016). _Python Data Science Handbook_. [Access](https://jakevdp.github.io/PythonDataScienceHandbook/)
-
-## Slack Channel
-There is no such thing as a stupid or trivial question. If a fellow student asks a question you know an answer to, try and answer!
-
- Slack is not only for instructor-student interaction, it is for all students to share knowledge and resources, and to get answers as fast as possible. Slack is best-suited for short technical questions and individual threads or channels for extended conversations on a given topic. 
-
-## Disability Resources
-Your experience in this class is important to me. If you have already established accommodations with Special Educational Support (SPS), please communicate your approved accommodations to me at your earliest convenience so we can discuss your needs in this course. If you have not yet established services through SPS, but have a temporary health condition or permanent disability that requires accommodations (conditions include but not limited to; mental health, attention-related, learning, vision, hearing, physical or health impacts), you are welcome to contact 8716 2720 (Monday & Thursday 9-12, Tuesday 13-15) or email sps@au.dk .  SES offers resources and coordinates reasonable accommodations for students with disabilities and/or temporary health conditions. Reasonable accommodations are established through an interactive process between you, your instructor(s) and SES. It is the policy and practice of the Aarhus University to create inclusive and accessible learning environment and ensure that all students have the opportunity to educate themselves on equal terms even if they have a disability
