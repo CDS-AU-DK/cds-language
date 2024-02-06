@@ -14,4 +14,4 @@ In today's workshop, we're going to see how we can use Python to build simple to
 - Displaying keywords-in-context
 - Checking Python knowledge
     - A number of exercises to test your knowledge
-        - Link to exercises [here](https://github.com/CHCAA-EDUX/Programming-for-the-Humanities-E22/tree/main/exercises)
+        - Link to exercises [here](https://github.com/CHCAA-EDUX/Programming-for-the-Humanities-E23/tree/main/exercises)
