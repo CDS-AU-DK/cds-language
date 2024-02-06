@@ -1,6 +1,6 @@
-# Syllabus Cultural Data Science - Language
+# Syllabus Cultural Data Science - Language Analytics
 
-**NB: The information presented here has been taken from the [AU Course Catalogue](https://kursuskatalog.au.dk/en/course/110773/Language-Analytics).**
+**NB: The information presented here has been taken from the [AU Course Catalogue](https://kursuskatalog.au.dk/en/course/115693/Language-Analytics).**
 
 **This page should be viewed as indicative, rather than definitive. In the case of any errors, the official AU version is binding.**
 
