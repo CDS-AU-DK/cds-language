@@ -28,7 +28,7 @@ This assignment is designed to test that you can:
 
 ## Some notes
 
-- The data is arranged in various subfolders related to their content (see the [README](in/README.md) for more info). You'll need to think a little bit about how to do this. You should be able do it using a combination of things we've already looked at, such as ```os.listdir()```, ```os.path.join()```, and for loops.
+- The data is arranged in various subfolders related to their content (see the associate README for more info). You'll need to think a little bit about how to do this. You should be able do it using a combination of things we've already looked at, such as ```os.listdir()```, ```os.path.join()```, and for loops.
 - The text files contain some extra information that such as document ID and other metadata that occurs between pointed brackets ```<>```. Make sure to remove these as part of your preprocessing steps!
 - There are 14 subfolders (a1, a2, a3, etc), so when completed the folder ```out``` should have 14 CSV files.
 
