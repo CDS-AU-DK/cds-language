@@ -1,2 +1,5 @@
-transformers
-tensorflow-cpu
+scikit-learn
+matplotlib
+pandas
+numpy
+seaborn
