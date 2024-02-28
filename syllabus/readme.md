@@ -47,7 +47,7 @@ Each course session (1-13) is four hours long, consisting of a two-hour lecture 
 |  6    |    2    | Text mining                  | Simple text processing with Python      | *Tahmasebi & Hengchen (2019)*                           |
 |  7    |    3    | NLP for linguistic analysis  | Introduction to spaCy                   | *Jurafsky & Martin (2023), sections 8.1, 8.2, and 8.3*  |
 |  8    |    4    | Text classification 1	     | Logistic regression with Scikit-Learn   | *So & Roland (2020); Kim & Klinger (2019)*              |
-|  9    |    5    | Text classification 2        | Simple neural networks                  | *Nielsen (2019), Chapter 1*                             |
+|  9    |    5    | Text classification 2        | Simple neural networks                  | *Nielsen (2019[2015]), Chapter 1*                             |
 |  10   |    6    | Word embeddings              | Semantic analysis with word2vec         | *Garg et al (2018)*                                     |
 |  11   |    7	  | Language modelling 1         | Training a custom NER model             | *Blanke et al (2020)*                                   |
 |  12   |    8	  | Language modelling 2         | Advanced Python scripting               | *Alammar (2018a)*                                       |
