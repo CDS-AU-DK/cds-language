@@ -1,4 +1,4 @@
-# Assignment 2 - Query expansion with word embeddings
+# Assignment 3 - Query expansion with word embeddings
 
 Have you ever wondered which of your favourite pop stars sing most about "love"? I bet you have.
 
