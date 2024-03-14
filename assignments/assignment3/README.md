@@ -2,7 +2,7 @@
 
 Have you ever wondered which of your favourite pop stars sing most about "love"? I bet you have.
 
-In this assignment, we're going to be working with a corpus of lyrics from 57,650 English-language songs. You can find a link to the dataset [here](https://www.kaggle.com/datasets/joebeachcapital/57651-spotify-songs) and it's also in the [data folder](data/Spotify%20Million%20Song%20Dataset_exported.csv).
+In this assignment, we're going to be working with a corpus of lyrics from 57,650 English-language songs. You can find a link to the dataset [here](https://www.kaggle.com/datasets/joebeachcapital/57651-spotify-songs). It's also available on UCloud.
 
 At the beginning of the semester, we saw how we could search for individual keywords and count how frequently they appear in a text. In this assignment, we're going to do some ```query expansion``` with word embeddings via ```gensim```. This means we choose a target word, find the most similar words to this target keyword, and then search for *all of those words* in our texts. Instead of just looking for the word "love", we'll be looking for this word and other related words - expanding our query to include a wider range of related words. 
 
