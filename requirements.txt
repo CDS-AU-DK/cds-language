@@ -1,6 +1,2 @@
-scikit-learn
-matplotlib
-pandas
-numpy
-seaborn
-gensim
+torch
+transformers-cpu
