@@ -1,4 +1,4 @@
-# Assignment 3 - Emotion analysis with pretrained language models
+# Assignment 4 - Emotion analysis with pretrained language models
 
 Winter is... just finished, actually.
 
