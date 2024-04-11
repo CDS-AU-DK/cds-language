@@ -17,7 +17,9 @@ For this assignment, you should write code which does the following:
 Finally, your repository should include a writtens summary and interpretation of what you think this analysis might being showing. You do not need to be a media studies expert here - just describe what you see and what that might mean in this context.
 
 
-## Starter code
+## Starter code and data
+
+The data for this assignment can be found in the ```cds-lang-data``` folder on UCloud. The data itself comes from [this website](https://www.kaggle.com/datasets/albenft/game-of-thrones-script-all-seasons?select=Game_of_Thrones_Script.csv).
 
 For this exercise, I recommend using the pretrained emotion classifier that we worked with in class. You can load this via HuggingFace using the following code:
 
