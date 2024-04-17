@@ -1,2 +1,4 @@
-torch
+sentencepiece
+tensorflow
+tf-keras
 transformers
