@@ -4,7 +4,7 @@ Winter is... just finished, actually.
 
 In class this week, we've seen how pretrained language models can be used for a range of tasks. In this assignment, we're going to use these models to perform some computational text analysis of some culturally significant data - scripts from the television show *Game of Thrones*. The scripts have been split into lines, with additional metadata showing who spoke each line, which episode that line comes from, and which season that episode belongs to.
 
-In this assignment, we are going to investigate whether the emotional profile of this show changed over the course of its seven series, and we want to know which characters exhibit the most extreme emotions.
+In this assignment, we are going to investigate whether the emotional profile of this show changed over the course of its seven series.
 
 For this assignment, you should write code which does the following:
 
