@@ -1,4 +1,5 @@
-sentencepiece
-tensorflow
-tf-keras
+pandas
+tqdm
+codecarbon
 transformers
+datasets
