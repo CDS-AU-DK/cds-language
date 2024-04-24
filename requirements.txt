@@ -1,5 +1,7 @@
 pandas
 tqdm
 codecarbon
+tensorflow-cpu
+tf-keras
 transformers
 datasets
