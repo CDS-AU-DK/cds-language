@@ -1,6 +1,6 @@
 # Language Analytics - Spring 2024
 
-This repository contains all of the code and data related to the Spring 2023 module _Language Analytics_ as part of the bachelor's elective in [Cultural Data Science](https://bachelor.au.dk/en/supplementary-subject/culturaldatascience/) at Aarhus University.
+This repository contains all of the code and data related to the Spring 2024 module _Language Analytics_ as part of the bachelor's elective in [Cultural Data Science](https://bachelor.au.dk/en/supplementary-subject/culturaldatascience/) at Aarhus University.
 
 This repository is in active development, with new material being pushed on a weekly basis.
 
